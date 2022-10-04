@@ -1,3 +1,3 @@
 # Python-codes.
 
-In this project you will find all the code that I've written since I started programming.
+In this repository you will find all the code that I've written since I started programming.
